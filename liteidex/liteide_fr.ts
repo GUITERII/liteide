@@ -2991,7 +2991,7 @@ Success: %2.</oldsource>
     <message>
         <location filename="src/plugins/markdown/htmlpreview.cpp" line="169"/>
         <source>Plain HTML</source>
-        <translation>Plain HTML</translation>
+        <translation>HTML Pur</translation>
     </message>
     <message>
         <location filename="src/plugins/markdown/htmlpreview.cpp" line="390"/>
